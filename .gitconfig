@@ -1,0 +1,9 @@
+[user]
+
+name = Elena Gelzinyte
+
+[alias]
+
+co = checkout
+br = branch
+ci = commit
